@@ -15,5 +15,9 @@
   "dependencies": {
     "kaboom": "^3000.1.17"
   },
-  "homepage": "https://ronknight.github.io/2d-portfolio"
+  "homepage": "https://ronknight.github.io/2d-portfolio",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
 }
