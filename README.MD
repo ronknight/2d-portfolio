@@ -6,7 +6,7 @@ and mobile.
 
 ![A screenshot of the project](./developerportfoliothumbnail.png)
 
-Live Demo : https://ronknight.github.io/2d-portfolio/
+Live Demo : https://2d-portfolio-k4pdxzuz4-ronknights-projects.vercel.app/
 
 Watch the tutorial I made on how to build this on YouTube : https://www.youtube.com/watch?v=gwtfWORCN0U
 
