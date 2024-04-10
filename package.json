@@ -14,5 +14,6 @@
   },
   "dependencies": {
     "kaboom": "^3000.1.17"
-  }
+  },
+  "homepage": "https://ronknight.github.io/2d-portfolio"
 }
