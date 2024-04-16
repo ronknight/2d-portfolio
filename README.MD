@@ -6,7 +6,7 @@ and mobile.
 
 ![A screenshot of the project](./developerportfoliothumbnail.png)
 
-Live Demo : https://ronknight.github.io/2d-portfolio/
+Live Demo : https://portfolio.ronaduna.dev/
 
 Watch the tutorial I made on how to build this on YouTube : https://www.youtube.com/watch?v=gwtfWORCN0U
 
